@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.smartbuilder10.Controller.DeliveryController">
+    <children>
+        <Label layoutX="185.0" layoutY="125.0" prefHeight="74.0" prefWidth="174.0" text="">
+            <font>
+                <Font size="43.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
